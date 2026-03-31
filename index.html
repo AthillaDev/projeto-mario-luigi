@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <title>Mario Bros</title>
+</head>
+
+<body>
+    <div class="mascara-formulario" onclick="esconderform()"></div>
+
+    <div class="header">
+        <img src="./img/logo-header.png" alt="logo mario">
+        <a>Home</a>
+        <a>Fale Conosco</a>
+        <a href="nossos-serviços.html">Nossos Serviços</a>
+    </div>
+
+    <div class="caixa-mae">
+        <div class="caixa-principal">
+            <img src="./img/logo.png" alt="Mario Bros Logo" class="Mario-bros-logo">
+
+            <p>🔧Encanadores Mario & Luigi-Resolvendo Seus Problemas Com Estilo!🔧</p>
+            <p>Você já se encontrou em uma situação de emergência de encanamento?Vazamentos inesperados,Canos
+                entupidos,ou
+                torneiras que não param de pingar?Não se preocupe,
+                Porque estamos aqui para salvar seu dia!Apresentamos a você os encanadores mais famosos do Reino dos
+                Cogumelos -
+                Mario e Luigi!</p>
+
+            <button onclick="cliqueiNoBotão()">Entre em Contato</button>
+        </div>
+
+        <div>
+            <img src="./img/mario.png" alt="Mario e Luigi" class="Mario-Luigi-logo">
+        </div>
+    </div>
+
+
+    <div class="caixa-video">
+        <video src="./img/video.mp4" autoplay muted loop></video>
+        <div class="mascara"></div>
+    </div>
+
+    <a href="https://wa.me/5521970431587?text=Quero%20falar%20sobre%20freela!" class="link-wattszapp">
+        <img src="./img/whatsapp.png" alt="link para o wattszapp">
+    </a>
+
+    <form class="formulario-fale-conosco"
+
+        action="https://formcarry.com/s/BioTyJbaPSC"
+        method="POST"
+        enctype="multipart/form-data">
+
+        <input placeholder="Seu nome" type="text" name="name">
+        <input placeholder="Seu email" type="email" name="email">
+        <input placeholder="Sua telefone" type="tel" name="phone">
+        <textarea placeholder="Digite sua mensagem aqui" name="message"></textarea>
+        <button type="submit">Pedir orçamento</button>
+    </form>
+</body>
+
+<script src="./scripts.js"></script>
+
+</html>
