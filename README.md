@@ -2,7 +2,7 @@
 
 Site desenvolvido para apresentação de serviços de encanamento com um visual criativo inspirado no universo do Mario Bros 🍄.
 
-<h1>📌 Sobre o projeto</h1>
+<h2>📌 Sobre o projeto</h2>
 
 Este projeto é uma landing page que tem como objetivo divulgar serviços em geral de forma moderna, interativa e acessível.
 
@@ -32,29 +32,37 @@ Este projeto é uma landing page que tem como objetivo divulgar serviços em ger
 
 <h3>📁 Estrutura do projeto</h3>
 
-</>📂 projeto-mario-encanador</>
+```
+ 📂 projeto-mario-encanador
  ┣ 📄 index.html
  ┣ 📄 nossos-serviços.html
  ┣ 📄 style.css
  ┣ 📄 scripts.js
  ┗ 📂 img
+```
  
 <h3>💻 Como executar o projeto</h3>
 
-Clone este repositório:
-git clone https://github.com/seu-usuario/seu-repositorio.git
-Acesse a pasta do projeto
-Abra o arquivo index.html no navegador
+<ol>
+ <li>Clone este repositório:</li>
+git clone https://github.com/AthillaDev/projeto-mario-luigi.git
+ <li>Acesse a pasta do projeto</li>
+ <li>Abra o arquivo index.html no navegador</li>
+</ol> 
 
 <h3>🌐 Demonstração</h3>
 
+<img src="https://github.com/AthillaDev/projeto-mario-luigi/blob/master/assets/img/commit-logo.png?raw=true" />
 (Adicione aqui o link do site online ou um print do projeto)
 
 <h3>💡 Melhorias futuras</h3>
 
-📱 Melhorar responsividade para dispositivos móveis
-🎨 Adicionar mais animações e efeitos visuais
-📞 Criar página dedicada de contato
-⚡ Otimização de performance
-
-✨ Projeto desenvolvido para fins de aprendizado e prática de desenvolvimento web.
+<ul>
+<li>📱 Melhorar responsividade para dispositivos móveis</li>
+<li>🎨 Adicionar mais animações e efeitos visuais</li>
+<li>📞 Criar página dedicada de contato</li>
+<li>⚡ Otimização de performance</li>
+</ul>
+<br
+  
+✨ <b>Projeto desenvolvido para fins de aprendizado e prática de desenvolvimento web.</b>
