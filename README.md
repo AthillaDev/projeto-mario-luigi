@@ -52,8 +52,11 @@ git clone https://github.com/AthillaDev/projeto-mario-luigi.git
 
 <h3>🌐 Demonstração</h3>
 
-<img src="https://github.com/AthillaDev/projeto-mario-luigi/blob/master/assets/img/commit-logo.png?raw=true" />
-(Adicione aqui o link do site online ou um print do projeto)
+<img src="(https://github.com/AthillaDev/projeto-mario-luigi/blob/master/assets/assets/commit-logo.png?raw=true)" />
+
+<h3>🔗Deploy</h3>
+
+(https://projeto-mario-luigi.vercel.app/)
 
 <h3>💡 Melhorias futuras</h3>
 
