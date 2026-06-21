@@ -45,15 +45,22 @@ Este projeto é uma landing page que tem como objetivo divulgar serviços em ger
 
 <ol>
  <li>Clone este repositório:</li>
+  
 git clone https://github.com/AthillaDev/projeto-mario-luigi.git
+
  <li>Acesse a pasta do projeto</li>
+ 
  <li>Abra o arquivo index.html no navegador</li>
 </ol> 
 
 <h3>🌐 Demonstração</h3>
 
-<img src="(https://github.com/AthillaDev/projeto-mario-luigi/blob/master/assets/assets/commit-logo.png?raw=true)" />
+![Preview do Projeto](https://github.com/AthillaDev/projeto-mario-luigi/blob/master/assets/assets/commit-logo.png?raw=true)
 
+
+## 🔗 Deploy:
+
+Projeto online:
 <h3>🔗Deploy</h3>
 
 (https://projeto-mario-luigi.vercel.app/)
